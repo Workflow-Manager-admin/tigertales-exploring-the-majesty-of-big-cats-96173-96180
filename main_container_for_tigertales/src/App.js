@@ -86,11 +86,11 @@ function App() {
               <div className="sidebar-section">
                 <h3 className="sidebar-title">Categories</h3>
                 <ul className="category-list">
-                  <li><a href="#">Conservation Efforts</a></li>
-                  <li><a href="#">Tiger Subspecies</a></li>
-                  <li><a href="#">Habitat & Ecosystem</a></li>
-                  <li><a href="#">Behavior & Biology</a></li>
-                  <li><a href="#">Tigers in Culture</a></li>
+                  <li><a href="#conservation">Conservation Efforts</a></li>
+                  <li><a href="#subspecies">Tiger Subspecies</a></li>
+                  <li><a href="#habitat">Habitat & Ecosystem</a></li>
+                  <li><a href="#behavior">Behavior & Biology</a></li>
+                  <li><a href="#culture">Tigers in Culture</a></li>
                 </ul>
               </div>
               
