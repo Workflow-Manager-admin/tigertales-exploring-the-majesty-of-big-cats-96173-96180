@@ -68,7 +68,17 @@ body {
 }
 
 .logo-symbol {
-  color: var(--kavia-orange);
+  color: var(--tiger-orange);
+}
+
+.tiger-logo {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  color: var(--tiger-white);
+  font-weight: bold;
+  font-size: 1.5rem;
+  text-decoration: none;
 }
 
 .container {
