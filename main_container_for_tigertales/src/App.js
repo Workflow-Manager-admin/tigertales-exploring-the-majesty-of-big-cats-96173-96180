@@ -113,9 +113,9 @@ function App() {
               <div className="sidebar-section">
                 <h3 className="sidebar-title">Recent Posts</h3>
                 <ul className="recent-list">
-                  <li><a href="#">Why Tiger Stripes Are Unique Like Fingerprints</a></li>
-                  <li><a href="#">The Role of Tigers in Maintaining Ecosystem Balance</a></li>
-                  <li><a href="#">Tiger Conservation Success Stories from Around the World</a></li>
+                  <li><a href="#stripes">Why Tiger Stripes Are Unique Like Fingerprints</a></li>
+                  <li><a href="#ecosystem">The Role of Tigers in Maintaining Ecosystem Balance</a></li>
+                  <li><a href="#success-stories">Tiger Conservation Success Stories from Around the World</a></li>
                 </ul>
               </div>
             </div>
