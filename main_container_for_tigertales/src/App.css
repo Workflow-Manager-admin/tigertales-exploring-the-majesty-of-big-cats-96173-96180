@@ -100,9 +100,11 @@ body {
 }
 
 .subtitle {
-  color: var(--kavia-orange);
+  color: var(--tiger-orange);
   font-weight: 500;
   font-size: 1.1rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
 }
 
 .title {
