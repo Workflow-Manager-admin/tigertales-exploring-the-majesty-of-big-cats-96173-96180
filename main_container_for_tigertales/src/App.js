@@ -208,10 +208,10 @@ function App() {
             <div className="footer-section">
               <h3>Conservation Partners</h3>
               <ul>
-                <li><a href="#">World Wildlife Fund</a></li>
-                <li><a href="#">Global Tiger Forum</a></li>
-                <li><a href="#">Panthera</a></li>
-                <li><a href="#">Wildlife Conservation Society</a></li>
+                <li><a href="https://www.worldwildlife.org/species/tiger" target="_blank" rel="noopener noreferrer">World Wildlife Fund</a></li>
+                <li><a href="https://globaltigerforum.org/" target="_blank" rel="noopener noreferrer">Global Tiger Forum</a></li>
+                <li><a href="https://www.panthera.org/cat/tiger" target="_blank" rel="noopener noreferrer">Panthera</a></li>
+                <li><a href="https://www.wcs.org/our-work/species/tigers" target="_blank" rel="noopener noreferrer">Wildlife Conservation Society</a></li>
               </ul>
             </div>
           </div>
